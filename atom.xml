@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ryan Slama Web Design</title>
+ <link href="http://getpoole.com/atom.xml" rel="self"/>
+ <link href="http://getpoole.com/"/>
+ <updated>2014-10-26T18:56:19-04:00</updated>
+ <id>http://getpoole.com</id>
+ <author>
+   <name>Ryan Slama</name>
+   <email>slama@outlook.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>What You Need to Know about Hosting</title>
+   <link href="http://getpoole.com//2014/10/26/hosting-guide/"/>
+   <updated>2014-10-26T00:00:00-04:00</updated>
+   <id>http://getpoole.com/2014/10/26/hosting-guide</id>
+   <content type="html">&lt;p&gt;Hosting is incredibly diverse, but smaller websites only have a few options. The cheapest kind of hosting with the least upkeep is shared hosting. This usually is the poorest preforming type of host, but what many inevitable start out with. &lt;/p&gt;
+
+&lt;p&gt;The second option is a Virtual Private Server (VPS). These usually cost more money and require technical skills to manage and maintain over time, but have the advantage of complete control and better performance. &lt;/p&gt;
+
+&lt;p&gt;The final option is a platform as a service provider such as Heroku. PAAS resides somewhere between shared hosting and a VPS, in that it has the performance of a VPS but has limitations in exchange for a completely managed environment.&lt;/p&gt;
+
+&lt;h2 id=&quot;shared-hosting&quot;&gt;Shared Hosting&lt;/h2&gt;
+
+&lt;p&gt;Hosts in this category generally advertise unlimited everything, but have hidden limitations. Shared plans are great because they are cost effective, and have everything you need for a basic site in one package. Some even offer a free domain along with your hosting, but at the expense of a tie-in. If you have yet to purchase a domain, I would recommend reading &lt;a href=&quot;/2014/10/25/domain-guide/&quot;&gt;my post on domains&lt;/a&gt;. Many also offer free email accounts, Cloudflare integration, and one click app installation.&lt;/p&gt;
+
+&lt;p&gt;The problems with shared hosting include a slower loading website and less control than alternatives. According to a Kissmetrics study, slow websites have been linked to significantly decreased conversions and sales. However, not all shared hosting has horrible load times. &lt;a href=&quot;http://www.siteground.com/index.htm?afcode=0ea914461a856773e600c7e7aeaa6dab&quot;&gt;Siteground&lt;/a&gt; has all of the features you can expect from a shared host and some of the best performance you will find. WPSiteCare recently preformed a &lt;a href=&quot;http://www.wpsitecare.com/performance-of-7-top-wordpress-hosting-companies-compared/&quot;&gt;test&lt;/a&gt; of many different shared hosts and decided that Siteground was the best value.&lt;/p&gt;
+
+&lt;p&gt;Shared hosting is best for small sites that just display content. I would recommend using a different platform if you plan to do anything serious such as ecommerce.&lt;/p&gt;
+
+&lt;h2 id=&quot;virtual-private-servers&quot;&gt;Virtual Private Servers&lt;/h2&gt;
+&lt;p&gt;A VPS gives you control over your entire site, from the operating system it runs on to the web stack. That being said, great power comes with great responsibility. You need to understand what you are doing to run a VPS well and protect it from security flaws. Properly configured, a VPS will run much better than a shared host because you are given your own resources, just for your site. A VPS is the ideal environment for running a site that has multiple languages like Node.JS, which are not often found in a shared host.&lt;/p&gt;
+
+&lt;p&gt;Linode and Digital Ocean are both excellent VPS hosts that are nearly identical. There are slight differences, but they are insignificant. Digital Ocean offers a cheaper base plan than Linode for $5/month, while Linode starts at a $10/month plan. You really can’t go wrong with either, so it is up to your personal preference.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-options&quot;&gt;Other Options&lt;/h2&gt;
+
+&lt;p&gt;Platform-As-A-Service providers (PAAS) are unique players here. They attempt to bring the performance of a VPS with some of the automation of a shared hosting account. This site is hosted on Heroku, and I have had a great experience with them. The hosting is lightning quick and has great uptime. It isn’t quite as fast as a VPS, but it has all the features I need and I love the add-on ecosystem, which allows you to easily add 3rd party features to your site.&lt;/p&gt;
+
+&lt;p&gt;If you plan on using Wordpress, there are some great services dedicated specifically to Wordpress. I really like &lt;a href=&quot;http://www.siteground.com/index.htm?afcode=0ea914461a856773e600c7e7aeaa6dab&quot;&gt;Siteground’s&lt;/a&gt; GoGeek plan, which includes a staging area that allows you to test code modifications before rolling them out on the live site. Copyblogger Media also has a great option with Web Synthesis.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-next-phase&quot;&gt;The Next Phase&lt;/h2&gt;
+&lt;p&gt;From here, it is time to create the site itself. I highly recommend starting with a simple coming soon page and submitting your site to search engines as soon as possible. Search engines place value on site age, as it indicates trust. Submitting a coming soon page can help your site rank higher once it launches officially.&lt;/p&gt;
+
+&lt;p&gt;I will be posting more information in the coming weeks on the development of a website, so stay tuned!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Ultimate Domain Name Guide</title>
+   <link href="http://getpoole.com//2014/10/25/domain-guide/"/>
+   <updated>2014-10-25T00:00:00-04:00</updated>
+   <id>http://getpoole.com/2014/10/25/domain-guide</id>
+   <content type="html">&lt;p&gt;Domains can seem difficult, but are simple once you break it down. First things first, domains have two parts to them. The first is called a second level domain or a root domain and it is everything that comes before the dot such as &lt;strong&gt;ryanslama&lt;/strong&gt;.com. The second part is the ending such as .com, .net, .org, and .edu. Recently, many new generic TLD’s (gTLD) have become available, which you can see at &lt;a href=&quot;http://www.name.com/new-gtld&quot;&gt;Name.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;choosing-a-tld&quot;&gt;Choosing a TLD&lt;/h2&gt;
+&lt;p&gt;I recommend a .com or .org domain for most sites because people are familiar with them. I tend not to go with gTLD’s because some users may not understand that &lt;a href=&quot;http://learncode.academy/&quot; rel=&quot;nofollow&quot;&gt;learncode.academy&lt;/a&gt; is a real site. Additionally, search engines may view an uncommon TLD as an indication that your website is spam.&lt;/p&gt;
+
+&lt;h2 id=&quot;choosing-a-root-domain&quot;&gt;Choosing a Root Domain&lt;/h2&gt;
+&lt;p&gt;Next, it is time to choose a root domain. Here are the main points to keep in mind:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use the name of your brand&lt;/li&gt;
+  &lt;li&gt;Keep your domain short to reduce typos&lt;/li&gt;
+  &lt;li&gt;Make it memorable&lt;/li&gt;
+  &lt;li&gt;Stay away from Hyphens (-) as they can indicate spam&lt;/li&gt;
+  &lt;li&gt;Don’t use numbers because of their ambiguity&lt;/li&gt;
+  &lt;li&gt;Don’t worry about Exact Match Domains&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Brand domains are a good way to hit all the checkboxes. They are usually short and to the point, but unique at the same time. Brands dominate Google search results as they indicate quality content. &lt;a href=&quot;http://www.seobook.com/learn-seo/infographics/brand-branding-brands.php&quot;&gt;Seobook&lt;/a&gt; has an excellent visual history that shows the rise of big brands in Google’s search and why it happened. &lt;/p&gt;
+
+&lt;p&gt;Can you think of any websites off the top of your head that use a hyphen? I can’t. Hyphens are commonly used in low quality spam sites, but rarely used in high quality websites. Numbers are similar, but have an additional problem. If someone tells you to go to “One and One dot com” do they mean 1and1.com or oneandone.com? (Note: I do not recommend 1&amp;amp;1 hosting at all)&lt;/p&gt;
+
+&lt;p&gt;The truth about Exact Match Domains (EMD’s) is that they have not been relevant in a long time. Years ago, BestCoffeePot.com would have been a top Google result for “Best Coffee Pot,” but those days are safely behind us. Now, Google only values EMD’s from popular brands that people would actually search for.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Minor weather report: small upcoming Google algo change will reduce low-quality &amp;quot;exact-match&amp;quot; domains in search results.&lt;/p&gt;&amp;mdash; Matt Cutts (@mattcutts) &lt;a href=&quot;https://twitter.com/mattcutts/status/251784203597910016&quot;&gt;September 28, 2012&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Now, EMD’s can even make it more difficult to rank as keyword stuffing becomes more of a problem. &lt;a href=&quot;http://blogs.bing.com/webmaster/2014/09/09/url-keyword-stuffing-spam-filtering/&quot;&gt;Bing’s Webmaster Blog&lt;/a&gt; says that they straight up penalize obvious EMD’s.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-registration-process&quot;&gt;The Registration Process&lt;/h2&gt;
+
+&lt;p&gt;It’s not hard to register your domain, provided you know where to go. Whatever you do, DO NOT use Godaddy to register your domain. They charge well over the competition and have regular problems with their service. A quick search online will reveal too many people who have been burned by them. &lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://domains.google.com&quot;&gt;Google Domains&lt;/a&gt; but their service is invite-only. My next favorite registrar is &lt;a href=&quot;https://www.hover.com/&quot;&gt;Hover&lt;/a&gt;. Both of these options include Whois privacy (protects your personal information) and powerful DNS options for free. Google offers free email forwarding, but hover charges $5/yr per forward. Hover charges $20/yr to have a unique email to your site, but Google Apps cost $5/month.&lt;/p&gt;
+
+&lt;p&gt;Some webhosts may offer a free domain with your purchase of hosting, but I would register your domain separately if you think you may want to change hosts down the line. I have posted a &lt;a href=&quot;/2014/10/26/hosting-guide/&quot;&gt;guide on hosting&lt;/a&gt; to help you discover the best option for you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello, World!</title>
+   <link href="http://getpoole.com//2014/10/24/hello-world/"/>
+   <updated>2014-10-24T00:00:00-04:00</updated>
+   <id>http://getpoole.com/2014/10/24/hello-world</id>
+   <content type="html">&lt;p&gt;Today marks the beginning of my official blog. I’ll be covering both the latest technologies and tried-and-true techniques. My fist few posts will probably be on basic material such as choosing and registering a domain name and choosing a hosting provider that is not trying to scam you. After those posts, I will cover tracking success with analytics and rank trackers. Down the read a bit, I will have some posts on Inbound Marketing and related topics.&lt;/p&gt;
+
+&lt;p&gt;I am excited to start my blog, and will start rolling with the posts fairly quickly.&lt;/p&gt;
+
+&lt;h2 id=&quot;behind-the-scenes&quot;&gt;Behind the Scenes&lt;/h2&gt;
+&lt;p&gt;My blog is powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and a custom built theme using Poole by Mark Otto as a base. Although it is not as powerful as Wordpress, I really like Jekyll because it gives complete power over the final result and all of the page processing is done ahead of time, meaning Jekyll sites will tend to load more quickly than Wordpress sites.&lt;/p&gt;
+
+&lt;p&gt;I use Animate.CSS and WOW.JS for the fancy transitions, and have no plans to change that. At the moment, I am using HTML 5 and CSS 3, but I’d like to transition the site over to Sass fairly soon. Sass &lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
