@@ -528,3 +528,8 @@ button {
 #go {
   margin-bottom: 00px;
 }
+@media only screen and (max-device-width : 520px){
+  #title {
+    font-size: 42px;
+  }
+}
