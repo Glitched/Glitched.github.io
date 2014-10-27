@@ -443,7 +443,7 @@ a.pagination-item:hover {
   }
 }
 
-#posts {
+.posts {
   list-style:none;
   line-height: 200%;
   font-size: 20px;
