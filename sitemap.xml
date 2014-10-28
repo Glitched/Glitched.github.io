@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>http://getpoole.com/2014/10/26/hosting-guide/</loc>
+    <loc>http://ryanslama.com/2014/10/26/hosting-guide/</loc>
     
     <lastmod>2014-10-26T00:00:00-04:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://getpoole.com/2014/10/25/domain-guide/</loc>
+    <loc>http://ryanslama.com/2014/10/25/domain-guide/</loc>
     
     <lastmod>2014-10-25T00:00:00-04:00</lastmod>
     
@@ -19,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://getpoole.com/2014/10/24/hello-world/</loc>
+    <loc>http://ryanslama.com/2014/10/24/hello-world/</loc>
     
     <lastmod>2014-10-24T00:00:00-04:00</lastmod>
     
@@ -28,36 +28,36 @@
   
   
   <url>
-    <loc>http://getpoole.com/404.html</loc>
-    <lastmod>2014-10-27T20:23:56-04:00</lastmod>
+    <loc>http://ryanslama.com/404.html</loc>
+    <lastmod>2014-10-27T20:34:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://getpoole.com/about/</loc>
-    <lastmod>2014-10-27T20:23:56-04:00</lastmod>
+    <loc>http://ryanslama.com/about/</loc>
+    <lastmod>2014-10-27T20:34:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://getpoole.com/blog/</loc>
-    <lastmod>2014-10-27T20:23:56-04:00</lastmod>
+    <loc>http://ryanslama.com/blog/</loc>
+    <lastmod>2014-10-27T20:34:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://getpoole.com/contact/</loc>
-    <lastmod>2014-10-27T20:23:56-04:00</lastmod>
+    <loc>http://ryanslama.com/contact/</loc>
+    <lastmod>2014-10-27T20:34:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://getpoole.com/</loc>
-    <lastmod>2014-10-27T20:23:56-04:00</lastmod>
+    <loc>http://ryanslama.com/</loc>
+    <lastmod>2014-10-27T20:34:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
