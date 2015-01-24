@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ryan Slama Web Design</title>
- <link href="http://ryanslama.com/atom.xml" rel="self"/>
- <link href="http://ryanslama.com/"/>
- <updated>2015-01-16T09:41:03-05:00</updated>
- <id>http://ryanslama.com</id>
+ <link href="http://www.ryanslama.com/atom.xml" rel="self"/>
+ <link href="http://www.ryanslama.com/"/>
+ <updated>2015-01-24T10:14:19-05:00</updated>
+ <id>http://www.ryanslama.com</id>
  <author>
    <name>Ryan Slama</name>
    <email>slama@outlook.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Migrating to Github Pages</title>
-   <link href="http://ryanslama.com//2014/10/30/github-pages-migration/"/>
+   <link href="http://www.ryanslama.com//2014/10/30/github-pages-migration/"/>
    <updated>2014-10-30T00:00:00-04:00</updated>
-   <id>http://ryanslama.com/2014/10/30/github-pages-migration</id>
+   <id>http://www.ryanslama.com/2014/10/30/github-pages-migration</id>
    <content type="html">&lt;p&gt;Recently, I transitioned my site from Heroku by Salesforce to Github Pages and I couldn’t be happier with the switch. Heroku is a great platform, but not the right tool for this site. I built it using Jekyll, which means I have no reason to be using a full web stack with Apache, MySQL, and PHP.&lt;/p&gt;
 
 &lt;h2 id=&quot;why-i-switched&quot;&gt;Why I Switched&lt;/h2&gt;
@@ -47,9 +47,9 @@
  
  <entry>
    <title>Genesis - The Biggest Scam in Wordpress</title>
-   <link href="http://ryanslama.com//2014/10/28/genesis-wordpress-scam/"/>
+   <link href="http://www.ryanslama.com//2014/10/28/genesis-wordpress-scam/"/>
    <updated>2014-10-28T00:00:00-04:00</updated>
-   <id>http://ryanslama.com/2014/10/28/genesis-wordpress-scam</id>
+   <id>http://www.ryanslama.com/2014/10/28/genesis-wordpress-scam</id>
    <content type="html">&lt;h2 id=&quot;how-genesis-misleads-customers&quot;&gt;How Genesis Misleads Customers&lt;/h2&gt;
 &lt;p&gt;Copyblogger Media/Studiopress had a brilliant idea. Make a simple, minimal theme and market it as having advanced features in SEO, Security, and HTML 5. What they neglect to mention is that they are using misinformation to sell their themes. Genesis retails for $60, more than the most expensive themes on ThemeForest. Copyblogger then tries to sell a child theme on top of that, to further increase profits.&lt;/p&gt;
 
@@ -85,9 +85,9 @@
  
  <entry>
    <title>What You Need to Know about Hosting</title>
-   <link href="http://ryanslama.com//2014/10/26/hosting-guide/"/>
+   <link href="http://www.ryanslama.com//2014/10/26/hosting-guide/"/>
    <updated>2014-10-26T00:00:00-04:00</updated>
-   <id>http://ryanslama.com/2014/10/26/hosting-guide</id>
+   <id>http://www.ryanslama.com/2014/10/26/hosting-guide</id>
    <content type="html">&lt;p&gt;Hosting is incredibly diverse, but smaller websites only have a few options. The cheapest kind of hosting with the least upkeep is shared hosting. This usually is the poorest preforming type of host, but what many inevitable start out with. &lt;/p&gt;
 
 &lt;p&gt;The second option is a Virtual Private Server (VPS). These usually cost more money and require technical skills to manage and maintain over time, but have the advantage of complete control and better performance. &lt;/p&gt;
@@ -122,9 +122,9 @@
  
  <entry>
    <title>The Ultimate Domain Name Guide</title>
-   <link href="http://ryanslama.com//2014/10/25/domain-guide/"/>
+   <link href="http://www.ryanslama.com//2014/10/25/domain-guide/"/>
    <updated>2014-10-25T00:00:00-04:00</updated>
-   <id>http://ryanslama.com/2014/10/25/domain-guide</id>
+   <id>http://www.ryanslama.com/2014/10/25/domain-guide</id>
    <content type="html">&lt;p&gt;Domains can seem difficult, but are simple once you break it down. First things first, domains have two parts to them. The first is called a second level domain or a root domain and it is everything that comes before the dot such as &lt;strong&gt;ryanslama&lt;/strong&gt;.com. The second part is the ending such as .com, .net, .org, and .edu. Recently, many new generic TLD’s (gTLD) have become available, which you can see at &lt;a href=&quot;http://www.name.com/new-gtld&quot;&gt;Name.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;choosing-a-tld&quot;&gt;Choosing a TLD&lt;/h2&gt;
@@ -165,9 +165,9 @@
  
  <entry>
    <title>Hello, World!</title>
-   <link href="http://ryanslama.com//2014/10/24/hello-world/"/>
+   <link href="http://www.ryanslama.com//2014/10/24/hello-world/"/>
    <updated>2014-10-24T00:00:00-04:00</updated>
-   <id>http://ryanslama.com/2014/10/24/hello-world</id>
+   <id>http://www.ryanslama.com/2014/10/24/hello-world</id>
    <content type="html">&lt;p&gt;Today marks the beginning of my official blog. I’ll be covering both the latest technologies and tried-and-true techniques. My fist few posts will probably be on basic material such as choosing and registering a domain name and choosing a hosting provider that is not trying to scam you. After those posts, I will cover tracking success with analytics and rank trackers. Down the read a bit, I will have some posts on Inbound Marketing and related topics.&lt;/p&gt;
 
 &lt;p&gt;I am excited to start my blog, and will start rolling with the posts fairly quickly.&lt;/p&gt;
