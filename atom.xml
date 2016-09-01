@@ -4,7 +4,7 @@
  <title>Ryan Slama Web Design</title>
  <link href="http://www.ryanslama.com/atom.xml" rel="self"/>
  <link href="http://www.ryanslama.com/"/>
- <updated>2016-08-31T22:52:22-04:00</updated>
+ <updated>2016-08-31T23:23:39-04:00</updated>
  <id>http://www.ryanslama.com</id>
  <author>
    <name>Ryan Slama</name>
@@ -35,11 +35,11 @@
   &lt;li&gt;I could use Brace Forms to receive emails of any form inputs&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;The first thing I did was eliminate option #1. As a web developer, I hate relying on another service to host my code. Plus, a form looks so much better if it is a part of a website rather than a similarly styled website that is hosted elsewhere. &lt;/p&gt;
+&lt;p&gt;The first thing I did was eliminate option #1. As a web developer, I hate relying on another service to host my code. Plus, a form looks so much better if it is a part of a website rather than a similarly styled website that is hosted elsewhere.&lt;/p&gt;
 
 &lt;p&gt;Then, I decided to try Formkeep, and I really liked it. With 2 lines of code, it will capture all of your form responses and put them in an excellent web interface. Unfortunately, Formkeep does not have a simple method of email or text notifications, so I was forced to look further. Note: Formkeep does support Webhooks, but I did not want to complicate my setup any more than it needed to be.&lt;/p&gt;
 
-&lt;p&gt;Finally, I have settled upon Brace Forms. Like the above option, it takes a very small amount of code and records all your responses. Unlike Formkeep, it does not have a web interface. Rather, it will email every form submission to you and it was the perfect solution for my contact form. &lt;/p&gt;
+&lt;p&gt;Finally, I have settled upon Brace Forms. Like the above option, it takes a very small amount of code and records all your responses. Unlike Formkeep, it does not have a web interface. Rather, it will email every form submission to you and it was the perfect solution for my contact form.&lt;/p&gt;
 
 &lt;p&gt;Overall, I am very happy with my decision to move to Github pages and I would recommend it to anyone looking to host a simple, static site.&lt;/p&gt;
 </content>
@@ -55,7 +55,7 @@
 
 &lt;h2 id=&quot;the-false-promise-of-seo&quot;&gt;The False Promise of SEO&lt;/h2&gt;
 
-&lt;p&gt;The number one feature they tout is Search Engine Optimization. What they fail to mention is that a theme is not a magic bullet and cannot “optimize” your website for Google. A lightweight and well coded page does have the potential to increase rankings, but Genesis has nothing that other well-coded themes do not have. On top of all this, Genesis is not even coded that well. GTmetrics has a side-by-side &lt;a href=&quot;http://gtmetrix.com/compare/fHPzcvMr/msQlOLD7&quot;&gt;comparison&lt;/a&gt; between Genesis and Schema by MyThemeShop. Unsurprisingly, Genesis was destroyed. &lt;/p&gt;
+&lt;p&gt;The number one feature they tout is Search Engine Optimization. What they fail to mention is that a theme is not a magic bullet and cannot “optimize” your website for Google. A lightweight and well coded page does have the potential to increase rankings, but Genesis has nothing that other well-coded themes do not have. On top of all this, Genesis is not even coded that well. GTmetrics has a side-by-side &lt;a href=&quot;http://gtmetrix.com/compare/fHPzcvMr/msQlOLD7&quot;&gt;comparison&lt;/a&gt; between Genesis and Schema by MyThemeShop. Unsurprisingly, Genesis was destroyed.&lt;/p&gt;
 
 &lt;p&gt;Genesis does have built in Schema.org markup, which Google has explicitly denied using as a ranking factor. That’s not to say Schema does not have its place; it does. Schema can still be used to get &lt;a href=&quot;https://support.google.com/webmasters/answer/99170?hl=en&quot;&gt;rich snippets&lt;/a&gt; in search results.&lt;/p&gt;
 
@@ -75,7 +75,7 @@
 
 &lt;p&gt;A quick search for “Genesis framework reviews” brings back only positive results. I wish I could say this was because their product was a joy to use. Unfortunately the reviews are because of an entirely different reason. Copyblogger/Studiopress has a giant affiliate program, which pays site owners who sell their themes. Anyone who publishes a positive review makes 35% of all the sales that their post generates though tracking cookies.&lt;/p&gt;
 
-&lt;p&gt;You will notice all of those reviews either send you to an affiliate link or go to a page that redirects to an affiliate link. For each person that buys Genesis from a review, the reviewer makes $21. For each person that buys Genesis and a child theme, they make $35. &lt;/p&gt;
+&lt;p&gt;You will notice all of those reviews either send you to an affiliate link or go to a page that redirects to an affiliate link. For each person that buys Genesis from a review, the reviewer makes $21. For each person that buys Genesis and a child theme, they make $35.&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
@@ -88,9 +88,9 @@
    <link href="http://www.ryanslama.com//2014/10/26/hosting-guide/"/>
    <updated>2014-10-26T00:00:00-04:00</updated>
    <id>http://www.ryanslama.com/2014/10/26/hosting-guide</id>
-   <content type="html">&lt;p&gt;Hosting is incredibly diverse, but smaller websites only have a few options. The cheapest kind of hosting with the least upkeep is shared hosting. This usually is the poorest preforming type of host, but what many inevitable start out with. &lt;/p&gt;
+   <content type="html">&lt;p&gt;Hosting is incredibly diverse, but smaller websites only have a few options. The cheapest kind of hosting with the least upkeep is shared hosting. This usually is the poorest preforming type of host, but what many inevitable start out with.&lt;/p&gt;
 
-&lt;p&gt;The second option is a Virtual Private Server (VPS). These usually cost more money and require technical skills to manage and maintain over time, but have the advantage of complete control and better performance. &lt;/p&gt;
+&lt;p&gt;The second option is a Virtual Private Server (VPS). These usually cost more money and require technical skills to manage and maintain over time, but have the advantage of complete control and better performance.&lt;/p&gt;
 
 &lt;p&gt;The final option is a platform as a service provider such as Heroku. PAAS resides somewhere between shared hosting and a VPS, in that it has the performance of a VPS but has limitations in exchange for a completely managed environment.&lt;/p&gt;
 
@@ -142,7 +142,7 @@
   &lt;li&gt;Don’t worry about Exact Match Domains&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Brand domains are a good way to hit all the checkboxes. They are usually short and to the point, but unique at the same time. Brands dominate Google search results as they indicate quality content. &lt;a href=&quot;http://www.seobook.com/learn-seo/infographics/brand-branding-brands.php&quot;&gt;Seobook&lt;/a&gt; has an excellent visual history that shows the rise of big brands in Google’s search and why it happened. &lt;/p&gt;
+&lt;p&gt;Brand domains are a good way to hit all the checkboxes. They are usually short and to the point, but unique at the same time. Brands dominate Google search results as they indicate quality content. &lt;a href=&quot;http://www.seobook.com/learn-seo/infographics/brand-branding-brands.php&quot;&gt;Seobook&lt;/a&gt; has an excellent visual history that shows the rise of big brands in Google’s search and why it happened.&lt;/p&gt;
 
 &lt;p&gt;Can you think of any websites off the top of your head that use a hyphen? I can’t. Hyphens are commonly used in low quality spam sites, but rarely used in high quality websites. Numbers are similar, but have an additional problem. If someone tells you to go to “One and One dot com” do they mean 1and1.com or oneandone.com? (Note: I do not recommend 1&amp;amp;1 hosting at all)&lt;/p&gt;
 
@@ -155,7 +155,7 @@
 
 &lt;h2 id=&quot;the-registration-process&quot;&gt;The Registration Process&lt;/h2&gt;
 
-&lt;p&gt;It’s not hard to register your domain, provided you know where to go. Whatever you do, DO NOT use Godaddy to register your domain. They charge well over the competition and have regular problems with their service. A quick search online will reveal too many people who have been burned by them. &lt;/p&gt;
+&lt;p&gt;It’s not hard to register your domain, provided you know where to go. Whatever you do, DO NOT use Godaddy to register your domain. They charge well over the competition and have regular problems with their service. A quick search online will reveal too many people who have been burned by them.&lt;/p&gt;
 
 &lt;p&gt;I use &lt;a href=&quot;https://domains.google.com&quot;&gt;Google Domains&lt;/a&gt; but their service is invite-only. My next favorite registrar is &lt;a href=&quot;https://www.hover.com/&quot;&gt;Hover&lt;/a&gt;. Both of these options include Whois privacy (protects your personal information) and powerful DNS options for free. Google offers free email forwarding, but hover charges $5/yr per forward. Hover charges $20/yr to have a unique email to your site, but Google Apps cost $5/month.&lt;/p&gt;
 
@@ -175,7 +175,7 @@
 &lt;h2 id=&quot;behind-the-scenes&quot;&gt;Behind the Scenes&lt;/h2&gt;
 &lt;p&gt;My blog is powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and a custom built theme using Poole by Mark Otto as a base. Although it is not as powerful as Wordpress, I really like Jekyll because it gives complete power over the final result and all of the page processing is done ahead of time, meaning Jekyll sites will tend to load more quickly than Wordpress sites.&lt;/p&gt;
 
-&lt;p&gt;I use Animate.CSS and WOW.JS for the fancy transitions, and have no plans to change that. At the moment, I am using HTML 5 and CSS 3, but I’d like to transition the site over to Sass fairly soon. Sass &lt;/p&gt;
+&lt;p&gt;I use Animate.CSS and WOW.JS for the fancy transitions, and have no plans to change that. At the moment, I am using HTML 5 and CSS 3, but I’d like to transition the site over to Sass fairly soon.&lt;/p&gt;
 
 </content>
  </entry>
