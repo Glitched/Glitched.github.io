@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="60px" viewBox="0 0 100 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-379.000000, -31.000000)" fill="#DC3F3F">
+            <g id="Group" transform="translate(-2.000000, 31.000000)">
+                <g id="Header" transform="translate(380.000000, 0.000000)">
+                    <g id="Logo">
+                        <text id="Post" font-family="Futura-MediumItalic, Futura" font-size="30.94" font-style="italic" font-weight="500" line-spacing="23.92">
+                            <tspan x="3.13557183" y="32">Post</tspan>
+                        </text>
+                        <text id="Enroll" font-family="Futura-MediumItalic, Futura" font-size="30.94" font-style="italic" font-weight="500" line-spacing="23.92">
+                            <tspan x="0" y="57.1481481">Enroll</tspan>
+                        </text>
+                        <path d="M81.9945046,36.7801023 C92.8620044,30.2516004 101.988168,12.7781592 73.8880353,15.7339636 L73.8880353,20.8948144 L64.337402,10.8483796 L73.8880353,1.55555556 C73.8880353,1.55555556 73.8880353,4.53669556 73.8880353,6.62832755 C94.8066414,1.55555556 120.114137,19.9798607 81.9945046,36.7801023 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
